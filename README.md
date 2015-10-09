@@ -1,5 +1,9 @@
 # A test-driven JS assessment
 
+_
+This repo belongs to [Eoin Woods][http://github.com/eoinwoods] and is independent of the originator of this test ([https://gitter.im/rmurphey/js-assessment])
+_
+
 [![Join the chat at https://gitter.im/rmurphey/js-assessment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rmurphey/js-assessment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repo includes a set of tests that can be used to assess the skills of
