@@ -1,8 +1,6 @@
 # A test-driven JS assessment
 
-_
-This repo belongs to [Eoin Woods][http://github.com/eoinwoods] and is independent of the originator of this test ([https://gitter.im/rmurphey/js-assessment])
-_
+_This is [Eoin Woods'](http://github.com/eoinwoods) private fork of [Rebecca Murphey's](https://gitter.im/rmurphey) excellent [JS assessment tests](https://gitter.im/rmurphey/js-assessment).  It is my effort to answer the questions!_
 
 [![Join the chat at https://gitter.im/rmurphey/js-assessment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rmurphey/js-assessment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
